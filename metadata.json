@@ -1,0 +1,6 @@
+{
+  "name": "Aksara & Lensa - Personal Branding & AI Photo-to-Story CMS",
+  "description": "Platform personal branding modern dengan CMS editorial, media library, dan AI Photo-to-Story generator bertenaga Gemini untuk mengubah dokumentasi menjadi narasi bermakna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
